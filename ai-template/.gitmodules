@@ -1,0 +1,3 @@
+[submodule "skills/scwl-development-specification-document"]
+	path = skills/scwl-development-specification-document
+	url = http://192.168.0.133:8929/scwl/scwl-development-specification-document.git
